@@ -1,0 +1,5 @@
+127.0.0.1 - - [29/Jan/2026 10:22:35] "GET /?password=2d8437f8-77e3-4481-b0bd-be24b97650a2 HTTP/1.1" 200 -
+172.16.0.1 - - [29/Jan/2026 10:22:35] "GET /?_gl=1*1wofqa0*_gcl_au*MTQyMTI2NTM3MS4xNzY5NjgyMDUz*_ga*MTAzNDUyNDcuMTc2OTY4MjA1Mw..*_ga_8NW18Q4WF2*czE3Njk2ODIwNTIkbzEkZzEkdDE3Njk2ODIwODAkajMyJGwwJGgxOTQ3OTk2MTA5&password=2d8437f8-77e3-4481-b0bd-be24b97650a2 HTTP/1.1" 200 -
+172.16.0.1 - - [29/Jan/2026 10:22:37] "GET /styles.css?password=2d8437f8-77e3-4481-b0bd-be24b97650a2 HTTP/1.1" 200 -
+172.16.0.1 - - [29/Jan/2026 10:22:38] code 404, message File not found
+172.16.0.1 - - [29/Jan/2026 10:22:38] "GET /favicon.ico?password=2d8437f8-77e3-4481-b0bd-be24b97650a2 HTTP/1.1" 404 -
